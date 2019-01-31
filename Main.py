@@ -1,5 +1,8 @@
-class my_class(object):
-    pass
+
+
+
+def __init__():
+
 
 
 
