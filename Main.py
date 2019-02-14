@@ -2,7 +2,7 @@ from Graphics import Graphics
 
 graphics = Graphics()
 
-#answer = [moonball, history, flag, geyser, squish, quotation, snoot, oblique, ink, dogs, pancake, fox, dragon, turtle, stripes,  ]
+answer = {"zealous", "history", "flag", "geyser", "squish", "quotation", "", "oblique", "ink", "dogs", "pancake", "fox", "dragon", "turtle", "stripes"}
 
 
 def function():
@@ -13,4 +13,6 @@ def function():
     
 
     #The Graphics go here#
-function()
+if
+
+
