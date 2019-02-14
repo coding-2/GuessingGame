@@ -2,7 +2,8 @@ from Graphics import Graphics
 
 graphics = Graphics()
 
-answer = {"zealous", "history", "flag", "geyser", "squish", "quotation", "", "oblique", "ink", "dogs", "pancake", "fox", "dragon", "turtle", "stripes"}
+
+answer = ["zealous", "history", "flag", "geyser", "squish", "quotation", "", "oblique", "ink", "dogs", "pancake", "fox", "dragon", "turtle", "stripes"]
 
 
 def function():
@@ -13,6 +14,14 @@ def function():
     
 
     #The Graphics go here#
-if
 
 
+def guessedBefore(letter):
+
+
+
+
+while True:
+    guess = graphics.guess()
+    guessedBefore(guess)
+    
