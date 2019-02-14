@@ -6,7 +6,7 @@ answer = [moonball, history, flag, geyser, squish, quotation, snoot, oblique, in
 
 def __init__():
 
-    #Choose word#
+    
 
     
 
