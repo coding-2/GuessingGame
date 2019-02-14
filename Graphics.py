@@ -7,4 +7,4 @@ class Graphics(object):
         guess = input("Guess a letter")
         return guess
 
-    def main(self):
+    def main(self, previous guesses):
